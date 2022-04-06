@@ -56,6 +56,4 @@ const updateUser = (req, res) => {
     res.sendStatus(200);
 }
 
-
-
 export default userController;
